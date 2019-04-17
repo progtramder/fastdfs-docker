@@ -18,3 +18,5 @@ echo "start storage"
 
 echo "start nginx"
 /usr/local/nginx/sbin/nginx 
+
+tail -f  /dev/null
